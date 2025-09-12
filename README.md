@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌊 Midnight Vibes
 
 *Late-night code, lo-fi beats, and pure vibes. This repo is where random ideas turn into projects without rules.*
@@ -80,3 +81,7 @@ This is my personal coding space, but I'm always open to:
 *"The best code is written at 2 AM with a cup of coffee and good music."* ☕🎵
 
 **Made with ❤️ during late-night coding sessions**
+=======
+# midnight-vibes
+🌊 Late-night code, lo-fi beats, and pure vibes. This repo is where random ideas turn into projects without rules.
+>>>>>>> 7634b8b0d4f34c344401f3c7dc8849fda18e4ac2
