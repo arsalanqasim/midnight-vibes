@@ -12,7 +12,7 @@ Welcome to my little corner of the internet where I turn random midnight thought
 
 Right now you'll find:
 
-- **[image-converter](./image-converter/)** - A GUI tool for converting images between different formats
+- **[image-converter](./image-type-converter/)** - A GUI tool for converting images between different formats
 
 More projects coming as inspiration strikes! 🌙
 
