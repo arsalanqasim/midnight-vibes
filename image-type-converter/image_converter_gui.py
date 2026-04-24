@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-
+"""
+Advanced Image File Converter with GUI
+Allows users to select files, choose source and destination formats, and pick output location.
+Features: Batch processing, quality settings, preview, file management, and more.
+"""
 
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
